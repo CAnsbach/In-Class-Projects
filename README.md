@@ -15,3 +15,8 @@ Format Checker: Reads a file and determines if the equations given are well form
 Packet Handler Simulation: Uses a linked list and threads to simulate packet handling between
 three producers and one consumer.  Depending on the destination the message will be output to
 the console; however, the packet information is sent to separate file regardless.
+
+Into the Darkness: This is a text adventure game that was made as the final project for my game
+programming class.  The file is a compressed Unity project folder for the demo of the game.
+Currently there are two floors and one boss as well as a room that when entered let the player
+win the game.
