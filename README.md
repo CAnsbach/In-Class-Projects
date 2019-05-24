@@ -18,5 +18,5 @@ the console; however, the packet information is sent to separate file regardless
 
 Into the Darkness: This is a text adventure game that was made as the final project for my game
 programming class.  The file is a compressed Unity project folder for the demo of the game.
-Currently there are two floors and one boss as well as a room that when entered let the player
-win the game.
+Currently there are two floors and one boss as well as a room that when entered, lets the player
+win the game.  I may work on improving and finishing the game in my free time.
